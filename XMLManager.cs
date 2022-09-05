@@ -54,6 +54,7 @@ namespace DataBaseExercise
             });
         }
 
+        //XML beolvasása SQL-be
         public static List<Jarmu> XMLToData(string path)
         {
             if (File.Exists(path))
