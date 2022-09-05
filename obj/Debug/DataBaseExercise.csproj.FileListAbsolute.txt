@@ -1,0 +1,15 @@
+C:\Users\AKOS\source\repos\DataBaseExercise\DataBaseExercise\bin\Debug\DBJarmuvek.mdf
+C:\Users\AKOS\source\repos\DataBaseExercise\DataBaseExercise\bin\Debug\DBJarmuvek_log.ldf
+C:\Users\AKOS\source\repos\DataBaseExercise\DataBaseExercise\bin\Debug\DataBaseExercise.exe.config
+C:\Users\AKOS\source\repos\DataBaseExercise\DataBaseExercise\bin\Debug\DataBaseExercise.exe
+C:\Users\AKOS\source\repos\DataBaseExercise\DataBaseExercise\bin\Debug\DataBaseExercise.pdb
+C:\Users\AKOS\source\repos\DataBaseExercise\DataBaseExercise\obj\Debug\DataBaseExercise.csproj.AssemblyReference.cache
+C:\Users\AKOS\source\repos\DataBaseExercise\DataBaseExercise\obj\Debug\DataBaseExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\AKOS\source\repos\DataBaseExercise\DataBaseExercise\obj\Debug\DataBaseExercise.JarmuUrlap.resources
+C:\Users\AKOS\source\repos\DataBaseExercise\DataBaseExercise\obj\Debug\DataBaseExercise.frmMain.resources
+C:\Users\AKOS\source\repos\DataBaseExercise\DataBaseExercise\obj\Debug\DataBaseExercise.Properties.Resources.resources
+C:\Users\AKOS\source\repos\DataBaseExercise\DataBaseExercise\obj\Debug\DataBaseExercise.csproj.GenerateResource.cache
+C:\Users\AKOS\source\repos\DataBaseExercise\DataBaseExercise\obj\Debug\DataBaseExercise.csproj.CoreCompileInputs.cache
+C:\Users\AKOS\source\repos\DataBaseExercise\DataBaseExercise\obj\Debug\DataBaseExercise.exe
+C:\Users\AKOS\source\repos\DataBaseExercise\DataBaseExercise\obj\Debug\DataBaseExercise.pdb
+C:\Users\AKOS\source\repos\DataBaseExercise\DataBaseExercise\bin\Debug\App.config
